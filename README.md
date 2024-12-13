@@ -2,7 +2,6 @@
 
 Fruit Scanner App is an Android-based application that utilizes image processing technology to analyze fruits. This app helps users detect fruit conditions, view nutritional content, and save the analysis data.
 
----
 
 ## **Key Features**
 - **Fruit Recognition**: Capture images of fruits to identify their type and condition.
@@ -11,14 +10,14 @@ Fruit Scanner App is an Android-based application that utilizes image processing
 - **Fruit Data Management**: Retrieve previously scanned fruit data.
 - **Reminder Notifications**: Get alerts to check your fruit’s freshness.
 
----
+
 
 ## **System Requirements**
 - Android 7.0 (Nougat) or higher.
 - Functional device camera.
 - Internet connection for image analysis and data retrieval.
 
----
+
 
 ## **Installation Guide**
 
@@ -33,7 +32,7 @@ Fruit Scanner App is an Android-based application that utilizes image processing
    ```
 4. Run the app on an emulator or physical device.
 
----
+
 
 ## **Technologies Used**
 - **Kotlin**: Primary programming language.
@@ -43,7 +42,7 @@ Fruit Scanner App is an Android-based application that utilizes image processing
 - **LiveData & ViewModel**: For state and data management.
 - **Room Database**: For local data storage.
 
----
+
 
 ## **API Endpoints**
 The app interacts with a backend API to retrieve and store data.
@@ -88,7 +87,7 @@ The app interacts with a backend API to retrieve and store data.
   }
   ```
 
----
+
 
 ## **How to Use**
 1. **Scan Fruit**: Open the app and point the camera at the fruit you want to scan.
@@ -96,12 +95,12 @@ The app interacts with a backend API to retrieve and store data.
 3. **Save Results**: Tap the "Save" button to store the analysis data on the server.
 4. **View Saved Data**: Navigate to the **History** page to view all saved data.
 
----
+
 
 ## **App Demo**
 
 
----
+
 
 ## **Contributing**
 We welcome contributions to improve this application! 
@@ -116,11 +115,8 @@ We welcome contributions to improve this application!
    ```
 4. Submit a pull request to the `main` branch.
 
----
+
 
 ## **License**
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Let me know if you’d like any further changes! 😊
